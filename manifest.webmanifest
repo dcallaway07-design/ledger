@@ -1,0 +1,1 @@
+{"name":"Ledger — Personal Finances","short_name":"Ledger","description":"Offline-first household finance prototype","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f6f5f1","theme_color":"#243b3a","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
